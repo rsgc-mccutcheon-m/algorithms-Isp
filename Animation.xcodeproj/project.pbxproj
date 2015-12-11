@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4DE9CF881C1B20B500DB7A70 /* MarkovCore.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MarkovCore.playground; sourceTree = "<group>"; };
 		81064A061C130A10007ED524 /* Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		81064A091C130A10007ED524 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		81064A0B1C130A10007ED524 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		810649FD1C130A10007ED524 = {
 			isa = PBXGroup;
 			children = (
+				4DE9CF881C1B20B500DB7A70 /* MarkovCore.playground */,
 				8134E7921C14CD5700EC4523 /* CanvasTestArea.playground */,
 				81064A081C130A10007ED524 /* Animation */,
 				81064A071C130A10007ED524 /* Products */,
